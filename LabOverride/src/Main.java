@@ -11,6 +11,9 @@ public class Main {
 		f.kao();
 		c.kao();
 		f2.kao();
+		//f.kao("fxxx"); // can not do this !!!!!
+		c.kao("hate");
+		//f2.kao("love");// Can not do this !!!!!!!!!!
 		
 	}
 
